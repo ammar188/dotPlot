@@ -1,10 +1,10 @@
-# dotPlot
-Made this game as a programming fundamentals project, do not even know the real name of the game just know loved playing it as a child.
+# dots and boxes
+Made this game as a programming fundamentals project, did not even know the real name of the game at the time, just knew loved playing it as a child.
 
 ## Installation
-copy this gig 
-cd into the main directory
-make dotplot
+copy this gig  
+cd into the main directory. 
+make dotplot.  
 ./dotplot
 
 ## How To Play
